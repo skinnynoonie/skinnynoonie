@@ -30,8 +30,3 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=skinnynoonie&show_icons=true&locale=en" alt="skinnynoonie" />
   </a>
 </p>
-<p align="left">
-  <a>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skinnynoonie&" alt="skinnynoonie" />
-  </a>
-</p>
