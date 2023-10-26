@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am skinnynoonie</h1>
-<h3 align="center">I am currently a Java developer, but I am willing to learn Assembly soon.</h3>
+<h3 align="center">I am currently a Java developer, but I am willing to learn other languages soon.</h3>
 
 - 📚 Learning **Java GUI frameworks, code structure, and organization.**
 
