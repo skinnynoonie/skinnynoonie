@@ -3,7 +3,6 @@
 
 <h3 align = "center">Learning: Java GUI frameworks, code structure, and organization.</h3>
 <h3 align = "center">Contact: skinnynoonie1@gmail.com</h3>
-<h3 align = "center">I know a little about the languages JavaScript and Python.</h3>
 
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
