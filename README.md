@@ -1,14 +1,11 @@
 <h1 align="center">Hello 👋, I am skinnynoonie</h1>
 <h3 align="center">I am currently a Java developer, but I am willing to learn other languages soon.</h3>
 
-- 📚 Learning **Java GUI frameworks, code structure, and organization.**
+<h3 align = "center">Learning: Java GUI frameworks, code structure, and organization.</h3>
+<h3 align = "center">Contact: skinnynoonie1@gmail.com</h3>
+<h3 align = "center">I know a little about the languages JavaScript and Python.</h3>
 
-- 📫 Contact(s) **skinnynoonie1@gmail.com**
-
-- 📃 Fact(s) **I know a little about the languages JavaScript and Python.**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
