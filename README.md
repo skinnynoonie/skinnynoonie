@@ -18,6 +18,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=skinnynoonie&show_icons=true&theme=gruvbox" alt="skinnynoonie" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinnynoonie&layout=donut-vertical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=skinnynoonie&show_icons=true&theme=gruvbox"/>
   </a>
 </p>
