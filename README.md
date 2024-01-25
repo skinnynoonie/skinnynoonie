@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I am skinnynoonie</h1>
 <h3 align="center">I am currently a Java developer, but I am willing to learn other languages soon.</h3>
 
-<h3 align = "center">Learning: Java GUI frameworks, code structure, and code organization.</h3>
+<h3 align = "center">Learning: Software Architecture.</h3>
 <h3 align = "center">Contact: skinnynoonie1@gmail.com</h3>
 
 <p align="center"> 
